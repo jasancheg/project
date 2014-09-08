@@ -1,0 +1,27 @@
+{
+  "name": "Project",
+  "version": "0.0.1",
+  "description": "Now I'm testing grunt too",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasancheg/project.git"
+  },
+  "keywords": [
+    "Git",
+    "Grunt"
+  ],
+  "author": "Jose Antonio Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasancheg/project/issues"
+  },
+  "homepage": "https://github.com/jasancheg/project",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
