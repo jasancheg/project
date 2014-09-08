@@ -1,5 +1,1 @@
-.DS_Store
-tmp
-.*.swp
-.*.swp~
-node_modules
+/node_modules/
